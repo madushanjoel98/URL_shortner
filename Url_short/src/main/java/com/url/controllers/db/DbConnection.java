@@ -8,7 +8,7 @@ public class DbConnection {
 	public static Connection getConnection() throws SQLException {
 		Connection con = null;
 
-		String dbUrl = "jdbc:mysql://localhost:3306/ur";
+		String dbUrl = "jdbc:mysql://localhost:3306/url_shortner";
 		String dbUser = "root";
 		String dbPass = "1234";
 

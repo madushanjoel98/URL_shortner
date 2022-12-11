@@ -1,0 +1,30 @@
+/* CSS Document */
+.para{
+	color: black;
+	font-size: 15px;
+	word-wrap: break-word;
+}
+h2{
+	font-size: 25;
+	
+}
+.bgv {
+    background-color: #761BF7;
+    height: 150px;
+}
+.logo {
+    height: 50px;
+}
+.conc {
+    background: rgba(0,0,0,0.15);
+    border-radius: 25px;
+    box-shadow: 0 4px 30px rgba(1,1,1,0.68);
+    backdrop-filter: blur(5.5px);
+    -webkit-backdrop-filter: blur(15px);
+    border: 5px solid rgba(24, 24, 24, 0.09);
+}
+.logo2 {
+    height: 100px;
+	
+}
+

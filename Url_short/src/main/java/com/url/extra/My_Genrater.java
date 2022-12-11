@@ -1,4 +1,4 @@
-package com.url.controllers.extra;
+package com.url.extra;
 
 import org.apache.commons.lang3.RandomStringUtils;
 
